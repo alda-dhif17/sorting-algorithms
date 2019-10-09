@@ -7,7 +7,7 @@ def insertion_sort(_list):
 		tmp = _list[i]
 		free = 1
 		for j in range(i-1, 0):
-			if(_list[j] < tmp):
+			if _list[j] < tmp:
 				_list[j+1] = _list[j]
 			else:
 				free = j + 1
