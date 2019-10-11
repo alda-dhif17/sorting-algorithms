@@ -11,13 +11,13 @@ Our implementation of some of the most popular sorting algorithms and techniques
 
 ## To Do
 
-- [ ] [Brainf*ck](Brainfuck/README.md)
-- [ ] [C](C/README.md)
-- [ ] [C#](C#/README.md)
-- [ ] [C++](C++/README.md)
-- [ ] [Java](Java/README.md)
-- [ ] [JavaScript](JavaScript/README.md)
-- [x] [Python](Python/README.md)
+- [ ] [Brainf*ck](Brainfuck/)
+- [ ] [C](C/)
+- [ ] [C#](Cs/)
+- [ ] [C++](C++/)
+- [ ] [Java](Java/)
+- [ ] [JavaScript](JavaScript/)
+- [x] [Python](Python/)
 
 ---
 
