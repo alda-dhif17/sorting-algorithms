@@ -7,21 +7,17 @@ _Abracadabra, you're sorted now_
 
 ## About
 
-Our implementation of some of the most popular sorting algorithms and techniques. Advanced timing and graphing functionalities will be included in future updates.
+Our implementation of some of the most popular sorting algorithms and techniques in multiple programming languages. Advanced timing and graphing functionalities will be included in future updates.
 
 ## To Do
 
-- [ ] Bubble Sort
-  - [x] Basic
-  - [ ] Improved
-- [ ] Selection Sort
-  - [x] Basic
-  - [ ] Improved
-- [ ] Insertion Sort
-  - [x] Basic
-  - [ ] Improved
-- [ ] Quick Sort
-- [ ] Merge Sort
+- [ ] [Brainf*ck](Brainfuck/README.md)
+- [ ] [C](C/README.md)
+- [ ] [C#](C#/README.md)
+- [ ] [C++](C++/README.md)
+- [ ] [Java](Java/README.md)
+- [ ] [JavaScript](JavaScript/README.md)
+- [x] [Python](Python/README.md)
 
 ---
 
