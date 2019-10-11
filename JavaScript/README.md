@@ -1,9 +1,9 @@
-# Java
-_It's delicious_
+# JavaScript
+_It's not real, it's scripted_
 
 ---
 
-![Banner](../media/java.jpg)
+![Banner](../media/javascript.jpg)
 
 ## To Do
 

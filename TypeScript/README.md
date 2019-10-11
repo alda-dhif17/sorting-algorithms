@@ -1,9 +1,9 @@
-# Java
-_It's delicious_
+# TypeScript
+_Who actually needs types? 😶😉_
 
 ---
 
-![Banner](../media/java.jpg)
+![Banner](../media/typescript.jpg)
 
 ## To Do
 

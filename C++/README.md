@@ -1,9 +1,9 @@
-# Java
-_It's delicious_
+# C++
+_... = C + 1_
 
 ---
 
-![Banner](../media/java.jpg)
+![Banner](../media/c++.jpg)
 
 ## To Do
 

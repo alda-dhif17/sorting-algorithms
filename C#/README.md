@@ -1,9 +1,9 @@
-# Java
-_It's delicious_
+# C#
+_Lightning speeds_
 
 ---
 
-![Banner](../media/java.jpg)
+![Banner](../media/cs.jpg)
 
 ## To Do
 

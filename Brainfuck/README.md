@@ -1,9 +1,9 @@
-# Java
-_It's delicious_
+# Brainf*ck
+_🧠🤯_
 
 ---
 
-![Banner](../media/java.jpg)
+![Banner](../media/brainfuck.jpg)
 
 ## To Do
 

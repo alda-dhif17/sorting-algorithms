@@ -1,9 +1,9 @@
-# Java
-_It's delicious_
+# C
+_A, b, ..._
 
 ---
 
-![Banner](../media/java.jpg)
+![Banner](../media/c.jpg)
 
 ## To Do
 
