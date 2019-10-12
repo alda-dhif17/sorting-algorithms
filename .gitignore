@@ -1,4 +1,7 @@
 utils/__pycache__/*
+/Java/BinarySearch/BinarySearch/nbproject/private/
+/Java/BinarySearch/BinarySearch/build/
+/Java/BinarySearch/InterpolationSearch/nbproject/private/
 Java/SortingAlgorithms.iml
 Java/out/*
 Java/.*/*
