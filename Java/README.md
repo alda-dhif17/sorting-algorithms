@@ -13,12 +13,12 @@ _It's delicious_
 - [ ] Selection Sort
   - [ ] Basic
   - [ ] Improved
-- [ ] Insertion Sort
-  - [ ] Basic
+- [x] Insertion Sort
+  - [x] Basic
   - [ ] Improved
-- [ ] Quick Sort
-  - [ ] Basic
-  - [ ] Improved
+- [x] Quick Sort
+  - [x] Basic
+  - [x] Improved (QuickSort + InsertionSort)
 - [ ] Merge Sort
   - [ ] Basic
   - [ ] Improved

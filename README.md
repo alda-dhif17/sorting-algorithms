@@ -15,7 +15,7 @@ Our implementation of some of the most popular sorting algorithms and techniques
 - [ ] [C](C/)
 - [ ] [C#](Cs/)
 - [ ] [C++](C++/)
-- [ ] [Java](Java/)
+- [x] [Java](Java/)
 - [ ] [JavaScript](JavaScript/)
 - [x] [Python](Python/)
 
