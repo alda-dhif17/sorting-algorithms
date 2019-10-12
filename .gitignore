@@ -1,4 +1,11 @@
 utils/__pycache__/*
 /Java/BinarySearch/BinarySearch/nbproject/private/
 /Java/BinarySearch/BinarySearch/build/
+<<<<<<< HEAD
 /Java/BinarySearch/InterpolationSearch/nbproject/private/
+=======
+/Java/BinarySearch/InterpolationSearch/nbproject/private/
+Java/SortingAlgorithms.iml
+Java/out/*
+Java/.*/*
+>>>>>>> quicksort
